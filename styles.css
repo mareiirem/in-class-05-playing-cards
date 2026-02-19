@@ -3,6 +3,8 @@
    height: 300px;
    background: linear-gradient(to bottom, forestgreen, darkgreen);
 
+   position: relative;
+
    
 }
 
