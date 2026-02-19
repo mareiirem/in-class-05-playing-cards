@@ -33,12 +33,14 @@
    position: absolute;
    left: 150px;
    top: 100px;
+   z-index: 50;
 }
 
 .card-bottom {
    position: absolute;
    left: 240px;
    top: 120px;
+   z-index: -50;
 }
 
 .heart {
